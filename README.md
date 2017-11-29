@@ -1,5 +1,4 @@
 # messages_processing_app
-JPM - messages processing app
 
 Implement a small message processing application that satisfies the below requirements for
 processing sales notification messages. You should assume that an external company will be sending
